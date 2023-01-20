@@ -1,7 +1,3 @@
-base =automap_base()
-base.prepare(autoload_with=engine)
-
-data = base.classes.test
 
 #Flask Setup
 app = Flask(__name__)
