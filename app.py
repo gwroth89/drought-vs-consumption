@@ -1,4 +1,4 @@
-import Flask
+from flask import Flask
 
 #Flask Setup
 app = Flask(__name__)
